@@ -9,3 +9,4 @@ permalink: >
   http://www.shepherdhistory.org/event/shepherd-community-farm-to-table-dinner/
 published: true
 ---
+[aesop_collection title="Event News" collection="195" columns="1" splash="off" order="default" loadmore="off"]
