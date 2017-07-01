@@ -22,7 +22,7 @@ ase_map_component_start_point:
 <h2>The Story</h2>
 The Shepherd Area Historical Society will be hosting its annual Ice Cream Social on Monday, July 10 at 6 p.m. inside the Shepherd Park. Then, the Central Michigan Area Concert Band will be performing at 7 p.m.
 <h2>What you need to know</h2>
-The dessert and the music are free, but donations are super appreciated. Proceeds will go to support several projects, including the restoration of <i>Shepherd Argus</i> back issues and maintenance of the Schoolhouse and the Powerhouse museum.
+The dessert and the music are free, but donations are super appreciated. Proceeds will go to support several projects, including the digitization of <i>Shepherd Argus</i> back issues and maintenance of the Schoolhouse and the Powerhouse museum.
 <h2>Don’t forget your . . .</h2>
 Chair, so that you have somewhere to sit. Usually, people sit in that big open space between the playground, museum, and the pavilion. The band usually performs from under the pavilion.
 <h3>Related:</h3>
