@@ -4,11 +4,16 @@ post_title: >
   Farm to Table Dinner to take place
   August 10
 author: Jon Morgan
-post_date: 2017-06-30 23:36:21
+post_date: 2017-06-30 23:47:57
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2100&preview=true&preview_id=2100'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/farm-to-table-dinner-to-take-place-august-10/
+published: true
+approver_user_id:
+  - "1"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
 <h2><img class="alignnone size-medium wp-image-2102" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/fork-knife-and-plate-300px-300x234.png" alt="" width="300" height="234" /></h2>
 <h2>The Story</h2>
