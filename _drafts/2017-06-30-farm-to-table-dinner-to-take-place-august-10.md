@@ -10,26 +10,27 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2100&preview=true&preview_id=2100'
 published: false
 ---
+<h2><img class="alignnone size-medium wp-image-2102" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/fork-knife-and-plate-300px-300x234.png" alt="" width="300" height="234" /></h2>
 <h2>The Story</h2>
-<p>On August 10 at 6:30 p.m., members of the community will get together in the Village of Shepherd to enjoy a dinner cooked by local chefs using food that was grown locally. The event is a fundraiser for the St. Vincent De Paul Food Pantry in Shepherd.</p>
+On August 10 at 6:30 p.m., members of the community will get together in the Village of Shepherd to enjoy a dinner cooked by local chefs using food that was grown locally. The event is a fundraiser for the St. Vincent De Paul Food Pantry in Shepherd.
 <h2>How to Attend</h2>
-<p>Tickets are $25 per person, and they are being sold at different Shepherd businesses. These include Mitchell’s Gourmet Deli & Market, Marrita’s, and Shepherd Bar & Restaurant. Or, you can purchase the tickets from any of the committee members.</p>
+Tickets are $25 per person, and they are being sold at different Shepherd businesses. These include Mitchell’s Gourmet Deli &amp; Market, Marrita’s, and Shepherd Bar &amp; Restaurant. Or, you can purchase the tickets from any of the committee members.
 <h2>Wait, there’s more . . .</h2>
-<p>Because in addition to the really great food, Tinkers Folly will be playing as a part of the Entertainment starting at 6 p.m. Dinner will be served at 6:30 p.m.</p>
-<p>There will also be a Silent Auction, door-prize drawings, and toe-tapping.</p>
+Because in addition to the really great food, Tinkers Folly will be playing as a part of the Entertainment starting at 6 p.m. Dinner will be served at 6:30 p.m.
+
+There will also be a Silent Auction, door-prize drawings, and toe-tapping.
 <h2>How to help out</h2>
-<p>There are lots of opportunities to help out. The Farm to Table committee is still looking for:</p>
+There are lots of opportunities to help out. The Farm to Table committee is still looking for:
 <ul>
-<li>Donations</li>
-<li>Silent Auction Items</li>
-<li>Volunteer Servers</li>
-<li>Decorators</li>
-<li>Putter-Uppers and Taker-downers</li>
+ 	<li>Donations</li>
+ 	<li>Silent Auction Items</li>
+ 	<li>Volunteer Servers</li>
+ 	<li>Decorators</li>
+ 	<li>Putter-Uppers and Taker-downers</li>
 </ul>
 <h3>Related:</h3>
 <ul>
-<li><a href="http://www.shepherdhistory.org/shepherd-business-directory/organization/Shepherd+Community+Farm+to+Table/">Committee contact information</a></li>
-<li><a href="http://www.shepherdhistory.org/events/list/">Calendar of Events</a></li>
-<li><a href="http://www.shepherdhistory.org/adverts/">Classifieds</a></li>
+ 	<li><a href="http://www.shepherdhistory.org/shepherd-business-directory/organization/Shepherd+Community+Farm+to+Table/">Committee contact information</a></li>
+ 	<li><a href="http://www.shepherdhistory.org/events/list/">Calendar of Events</a></li>
+ 	<li><a href="http://www.shepherdhistory.org/adverts/">Classifieds</a></li>
 </ul>
-<p></p>
