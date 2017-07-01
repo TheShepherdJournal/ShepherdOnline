@@ -19,7 +19,6 @@ ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-47.jpeg" alt="" width="624" height="832" />
-<h1>Shepherd Area Historical Society Ice Cream Social to take place July 10 at 6 p.m.</h1>
 <h2>The Story</h2>
 The Shepherd Area Historical Society will be hosting its annual Ice Cream Social on Monday, July 10 at 6 p.m. inside the Shepherd Park. Then, the Central Michigan Area Concert Band will be performing at 7 p.m.
 <h2>What you need to know</h2>
