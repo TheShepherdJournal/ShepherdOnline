@@ -9,3 +9,4 @@ permalink: >
   http://www.shepherdhistory.org/event/sahs-ice-cream-social/
 published: true
 ---
+[aesop_collection title="News" collection="194" columns="1" splash="on" order="default" loadmore="off"]
