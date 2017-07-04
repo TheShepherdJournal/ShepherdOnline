@@ -13,6 +13,6 @@
 * [Business Directory](http://www.shepherdhistory.org/shepherd-business-directory/)
 * [Classifieds](http://www.shepherdhistory.org/adverts/)
 * [Story Ideas](http://www.shepherdhistory.org/sample-feature-request/)
-* Submit a News Tip
+* [Submit a News Tip](http://www.shepherdhistory.org/share-a-story/)
 
 
