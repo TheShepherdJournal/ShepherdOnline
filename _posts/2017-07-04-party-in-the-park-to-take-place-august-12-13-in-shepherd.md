@@ -36,8 +36,8 @@ The Party in the Park committee is looking for someone who would be able coordin
  	<li>Handmade crafts</li>
  	<li>Services</li>
 </ul>
-For more information, contact Pete Alexander at (989) 828-5422 or send email to <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a>.
-<h3>Volunteers</h3>
+For more information, contact Pete Alexander at (989) 828-5422 or Vicki Travis at (989) 400-3000.
+<h2>Volunteers</h2>
 Volunteers are needed to help with lots of different jobs including:
 <ul>
  	<li>Selling tickets</li>
