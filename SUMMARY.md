@@ -8,9 +8,11 @@
 * [Shepherd Soccer Club](_posts/2017-06-28-deadline-for-soccer-registration-is-july-29.md)
 
 ## Departments
-* Calendar
-* Classifieds
-* Story Ideas
+* [Calendar](http://www.shepherdhistory.org/events/)
+* [Web Directory](http://www.shepherdhistory.org/shepherd-community-web-directory/)
+* [Business Directory](http://www.shepherdhistory.org/shepherd-business-directory/)
+* [Classifieds](http://www.shepherdhistory.org/adverts/)
+* [Story Ideas](http://www.shepherdhistory.org/sample-feature-request/)
 * Submit a News Tip
 
 
