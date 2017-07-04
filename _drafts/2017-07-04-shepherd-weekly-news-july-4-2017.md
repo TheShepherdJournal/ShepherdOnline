@@ -17,4 +17,4 @@ medium_post:
  	<li>Shepherd Soccer Registration</li>
  	<li>Party in the Park set to take place August 12-13</li>
 </ul>
-Read Issue
+<a href="https://shepherdjrn.gitbooks.io/tsw-july2017/content/_posts/2017-07-04-party-in-the-park-to-take-place-august-12-13-in-shepherd.html">Read Issue</a>
