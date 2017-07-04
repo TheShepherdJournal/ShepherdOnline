@@ -6,6 +6,7 @@
 * [SAHS Ice Cream Social](_posts/2017-06-30-shepherd-area-historical-society-ice-cream-social-to-take-place-july-10-at-6-p-m.md)
 * [Farm to Table](_posts/2017-06-30-farm-to-table-dinner-to-take-place-august-10.md)
 * [Shepherd Soccer Registration](_posts/2017-07-03-shepherd-soccer-club-registration.md)
+* [Party in the Park](_posts/2017-07-04-party-in-the-park-to-take-place-august-12-13-in-shepherd.md)
 
 ## Classifieds
 * [Decorators Needed](_classifieds/decorators-needed-for-farm-to-table-event.md)
