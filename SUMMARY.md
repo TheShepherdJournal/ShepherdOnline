@@ -7,6 +7,9 @@
 * [Farm to Table](_posts/2017-06-30-farm-to-table-dinner-to-take-place-august-10.md)
 * [Shepherd Soccer Registration](_posts/2017-07-03-shepherd-soccer-club-registration.md)
 
+## Classifieds
+* [Decorators Needed](_classifieds/decorators-needed-for-farm-to-table-event.md)
+
 ## Departments
 * [Calendar](http://www.shepherdhistory.org/events/)
 * [Web Directory](http://www.shepherdhistory.org/shepherd-community-web-directory/)
