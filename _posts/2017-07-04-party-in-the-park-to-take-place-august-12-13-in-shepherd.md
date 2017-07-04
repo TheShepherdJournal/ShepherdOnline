@@ -17,7 +17,6 @@ medium_post:
 approver_user_id:
   - "1"
 ---
-<h1>Party in the Park set to take place August 12-13</h1>
 <h2><img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null.png" alt="" width="224" height="300" /></h2>
 <h2>The Story</h2>
 There will be a huge, two day long party held inside the Shepherd Community Memorial Park from noon to midnight on Saturday, August 12, and from noon until late evening on Sunday, August 13.
