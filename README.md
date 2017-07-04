@@ -1,6 +1,11 @@
 # Shepherd Weekly News
 
-## July 3, 2017
+___
+
+![](/assets/Fireworks-Remix-2015052712-800px.png)
+
+___
+##### Volume 1 | Issue #4 | July 4, 2017
 
 
 
