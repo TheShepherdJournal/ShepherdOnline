@@ -27,4 +27,4 @@ The $150,000 project was made possible through the help of donors and volunteers
 
 Here are some photos showing how it looks currently:
 
-[gallery type="slideshow" size="medium" ids="2130,2131,2132,2133,2134,2135,2136,2137,2138,2139,2140,2141,2142,2143,2144,2145"]
+[gallery size="medium" link="file" ids="2130,2131,2132,2133,2134,2135,2136,2137,2138,2139,2140,2141,2142,2143,2144,2145"]
