@@ -4,11 +4,16 @@ post_title: >
   Work continues on new Playground near
   Shepherd Trail
 author: Jon Morgan
-post_date: 2017-07-04 20:19:13
+post_date: 2017-07-04 20:42:51
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2127&preview=true&preview_id=2127'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/work-continues-on-new-playground-near-shepherd-trail/
+published: true
+approver_user_id:
+  - "1"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
 The work is still ongoing for the new playscape area next to the baseball diamonds and the Shepherd Trail. Cement has been laid down around the space where the equipment was installed, and there are large piles of shredded rubber which is waiting to be evened out.
 
@@ -16,7 +21,7 @@ The installation of the playscape was a project initiated by Jeanneane Nartker w
 
 The $150,000 project was made possible through the help of donors and volunteers. The playscape was initially installed entirely by volunteers. Donors include the Mount Pleasant Community Foundation, Rollin M. Gerstacker Foundation, Home Run Derby, Christopher and Dana Reeves Foundation, and the Shepherd Maple Syrup Festival committee.
 
-&nbsp;
+[embed]https://www.youtube.com/watch?v=TfauyYCNi34&t=36s[/embed]
 
 Here are some photos showing how it looks currently:
 
