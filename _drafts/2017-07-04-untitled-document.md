@@ -8,7 +8,7 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2127&preview=true&preview_id=2127'
 published: false
 ---
-The work is still ongoing for the new playscape area between the baseball diamonds over near the football stadium. Cement has been laid down around the space where the equipment was installed, and there are large piles of shredded rubber. This will eventually be used as a cushion.
+The work is still ongoing for the new playscape area between the baseball diamonds over near the football stadium. Cement has been laid down around the space where the equipment was installed, and there are large piles of shredded rubber which is waiting to be . This will eventually be used as a cushion.
 
 The installation of the playscape was a project initiated by Jeanneane Nartker who wanted to create a safe space for kids to play during baseball games. The playground is designed to be accessible.
 
