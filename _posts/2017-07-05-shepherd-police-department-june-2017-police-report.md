@@ -4,11 +4,16 @@ post_title: >
   Shepherd Police Department June 2017
   Police Report
 author: Jon Morgan
-post_date: 2017-07-05 21:08:00
+post_date: 2017-07-05 21:15:52
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2218&preview=true&preview_id=2218'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/shepherd-police-department-june-2017-police-report/
+published: true
+approver_user_id:
+  - "1"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
 <h2><img class="alignnone size-medium wp-image-2220" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/badge-300px-279x300.png" alt="" width="279" height="300" /></h2>
 <h2>ACTIVITY:</h2>
