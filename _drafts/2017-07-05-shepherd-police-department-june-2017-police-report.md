@@ -10,6 +10,7 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2218&preview=true&preview_id=2218'
 published: false
 ---
+<h2><img class="alignnone size-medium wp-image-2220" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/badge-300px-279x300.png" alt="" width="279" height="300" /></h2>
 <h2>ACTIVITY:</h2>
 <ul>
  	<li>Traffic Crash 4</li>
