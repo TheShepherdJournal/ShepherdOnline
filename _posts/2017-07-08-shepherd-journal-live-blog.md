@@ -29,3 +29,4 @@ ac_cover_overlay_opacity:
 approver_user_id:
   - "1"
 ---
+<h2>News and Notes from around the Community of Shepherd</h2>
