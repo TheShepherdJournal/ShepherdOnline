@@ -1,6 +1,6 @@
 ---
 ID: 2243
-post_title: ""
+post_title: Shepherd Journal Live Blog
 author: Jon Morgan
 post_date: 2017-07-07 23:51:01
 post_excerpt: ""
