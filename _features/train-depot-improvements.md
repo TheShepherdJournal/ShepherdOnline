@@ -8,7 +8,15 @@ layout: avfr
 permalink: >
   http://www.shepherdhistory.org/suggestions/train-depot-improvements/
 published: true
+ac_featured_article:
+  - "0"
+ac_show_post_thumbnail:
+  - "0"
+ac_post_layout_options:
+  - ""
+ac_cover_overlay_opacity:
+  - ""
 ---
 I noticed that the caboose received a new coat of paint, and am curious to learn what changes are coming next for the train depot/museum.
-<h3>Submit a Story</h3>
+<h2>Submit a Story</h2>
 [user-submitted-posts]
