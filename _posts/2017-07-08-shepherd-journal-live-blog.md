@@ -29,4 +29,6 @@ ac_cover_overlay_opacity:
 approver_user_id:
   - "1"
 ---
-<h2>News and Notes from around the Community of Shepherd</h2>
+<em>News and Notes from around the Community of Shepherd</em>
+<h1>Top Stories</h1>
+[aesop_collection title="Top Stories" collection="40" columns="1" splash="off" order="default" loadmore="off"]
