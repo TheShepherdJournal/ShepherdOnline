@@ -18,5 +18,3 @@ ac_cover_overlay_opacity:
   - ""
 ---
 I'm curious to find out the status of the new playscape between the ball field and the high school football field. It looks almost finished.
-<h2>Submit a Story</h2>
-[user-submitted-posts]
