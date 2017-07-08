@@ -10,3 +10,5 @@ permalink: >
 published: true
 ---
 I'm curious to find out the status of the new playscape between the ball field and the high school football field. It looks almost finished.
+
+[user-submitted-posts]
