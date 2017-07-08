@@ -8,7 +8,15 @@ layout: avfr
 permalink: >
   http://www.shepherdhistory.org/suggestions/new-playscape/
 published: true
+ac_featured_article:
+  - "0"
+ac_show_post_thumbnail:
+  - "0"
+ac_post_layout_options:
+  - ""
+ac_cover_overlay_opacity:
+  - ""
 ---
 I'm curious to find out the status of the new playscape between the ball field and the high school football field. It looks almost finished.
-
+<h2>Submit a Story</h2>
 [user-submitted-posts]
