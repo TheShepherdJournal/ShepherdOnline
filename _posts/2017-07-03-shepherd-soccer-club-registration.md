@@ -15,6 +15,8 @@ medium_post:
 ase_map_component_start_point:
   - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
+<img class="alignnone size-full wp-image-2065" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-8.png" alt="" width="300" height="300" />
+
 Registration is now open for Shepherd Soccer. Soccer players between the first and eighth grade can register until July 29th. To register, go to http://leagues.bluesombrero.com/shepherdsoccer. Or you can register in person inside the Coe Township Hall on July 6th from 6:30 - 7:30 p.m. Registration will also be accepted during the free soccer clinic scheduled on July 29.
 
 The cost of registration is $30 per player plus a $5 late fee for registrations received after June 15.
