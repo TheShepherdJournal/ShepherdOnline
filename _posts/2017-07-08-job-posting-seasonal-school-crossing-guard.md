@@ -2,14 +2,17 @@
 ID: 2275
 post_title: 'JOB POSTING: Seasonal School Crossing Guard'
 author: Jon Morgan
-post_date: 2017-07-08 20:28:23
+post_date: 2017-07-08 20:35:49
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2275&preview=true&preview_id=2275'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/job-posting-seasonal-school-crossing-guard/
+published: true
+approver_user_id:
+  - "1"
+ase_map_component_start_point:
+  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
 ---
-<p>JOB POSTING: Seasonal School Crossing Guard
-
 OPEN: Accepting applications until August 21, 2017 at 5:00PM
 
 REPORTS TO: Chief of Police
@@ -25,4 +28,4 @@ An ideal person for this position is a good communicator, sharp-eyed, perceptive
 If you have interest in this position, please submit the following information in person to the Shepherd Police Department:
 • Letter of interest
 • Resume
-• 3 non-family references</p>
+• 3 non-family references
