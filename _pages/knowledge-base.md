@@ -1,6 +1,6 @@
 ---
 ID: 2372
-post_title: Knowledge Base
+post_title: Library
 author: Jon Morgan
 post_excerpt: ""
 layout: page
