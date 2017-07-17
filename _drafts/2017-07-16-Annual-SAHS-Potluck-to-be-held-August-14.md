@@ -7,3 +7,4 @@ layout: post
 permalink: http://www.shepherdhistory.org/?p=2434
 published: false
 ---
+<p>The Shepherd Area Historical Society will be hosting a Potluck at the Shepherd Park on August 14 starting at 6 p.m. Everyone from the community is welcomed to attend. Bring a dish to pass and a chair.</p>
