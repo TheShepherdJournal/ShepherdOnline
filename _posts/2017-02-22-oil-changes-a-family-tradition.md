@@ -2,32 +2,12 @@
 ID: 286
 post_title: 'Oil Changes: A Family Tradition'
 author: Jon Morgan
-post_date: 2017-02-22 02:56:07
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.shepherdhistory.org/oil-changes-a-family-tradition/
 published: true
-wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-custom_sidebar:
-  - 'a:1:{i:0;s:4:"none";}'
-user_submit_image:
-  - 'a:1:{i:0;s:65:"http://www.shepherdhistory.org/wp-content/uploads/2017/02/oil.jpg";}'
-is_submission:
-  - 'a:1:{i:0;s:1:"1";}'
-user_submit_name:
-  - 'a:1:{i:0;s:11:"Kyle Howard";}'
-user_submit_ip:
-  - 'a:1:{i:0;s:14:"66.219.122.132";}'
-top_term:
-  - 'a:1:{i:0;s:2:"40";}'
-largo_byline_text:
-  - 'a:1:{i:0;s:15:"Kyle Doc Howard";}'
-largo_byline_link:
-  - 'a:1:{i:0;s:38:"https://www.facebook.com/kyle.d.howard";}'
-featured-image-display:
-  - 'a:1:{i:0;s:5:"false";}'
+post_date: 2017-02-22 02:56:07
 ---
 <img class="alignnone size-medium wp-image-288" src="http://www.shepherdhistory.org/wp-content/uploads/2017/02/oil-1-336x187.jpg" alt="" width="336" height="187" />
 
