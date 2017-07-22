@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/local-travel-baseball-team-oil-city-stags-to-complete-in-13u14u-world-series/
-published: true
-post_date: 2017-06-22 01:15:31
+permalink: 'http://www.shepherdhistory.org?p=1968&preview=true&preview_id=1968'
+published: false
 ---
 [caption id="" align="alignnone" width="624"]<img src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-46.jpeg" alt="" width="624" height="468" /> <em>Front Row L to R: Coach Scott Miller, Colten Horn, Drew Funnell, Cole McMullin, Colten Miller, Kevin Tanner, Al Warner. Back Row L to R: Coach Mitch McMullin, Coach Josh Russell, Jacob Recker, Christian Wang, Carson VanBuskirk, Gage Beckner, Logan Wundirluck, Konnor Moore, Coach Brian Warner and Coach Jim Wundirluck.</em>[/caption]
 
