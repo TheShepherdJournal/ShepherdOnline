@@ -6,8 +6,10 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2106&preview=true&preview_id=2106'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/party-in-the-park-to-take-place-august-12-13-in-shepherd/
+published: true
+post_date: 2017-07-04 09:18:15
 ---
 <h2><img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null.png" alt="" width="224" height="300" /></h2>
 <h2>The Story</h2>
