@@ -5,7 +5,6 @@ post_title: >
   John” letter before May disappearance;
   no foul play suspected
 author: Jon Morgan
-post_date: 2017-06-09 17:52:21
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1762&preview=true&preview_id=1762'
