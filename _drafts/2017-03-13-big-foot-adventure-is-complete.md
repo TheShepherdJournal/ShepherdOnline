@@ -4,10 +4,8 @@ post_title: Big Foot Adventure is Complete
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/big-foot-adventure-is-complete/
-published: true
-post_date: 2017-03-13 01:11:59
+permalink: 'http://www.shepherdhistory.org?p=435&preview=true&preview_id=435'
+published: false
 ---
 From <a href="https://www.facebook.com/jgross811">Jay Gross</a>:
 <blockquote>Okay...
