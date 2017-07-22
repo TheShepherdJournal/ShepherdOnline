@@ -2,20 +2,10 @@
 ID: 421
 post_title: News Assignments for March 12
 author: Jon Morgan
-post_date: 2017-03-12 16:38:08
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/news-assignments-for-march-12/
-published: true
-wide_assets:
-  - ""
-custom_sidebar:
-  - none
-top_term:
-  - none
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
+permalink: 'http://www.shepherdhistory.org?p=421&preview=true&preview_id=421'
+published: false
 ---
 I have three story assignments for anybody who is interested.
 <h3>Hanson Hardware</h3>
