@@ -6,8 +6,10 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2100&preview=true&preview_id=2100'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/farm-to-table-dinner-to-take-place-august-10/
+published: true
+post_date: 2017-06-30 23:47:57
 ---
 <h2><img class="alignnone size-medium wp-image-2102" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/fork-knife-and-plate-300px-300x234.png" alt="" width="300" height="234" /></h2>
 <h2>The Story</h2>
