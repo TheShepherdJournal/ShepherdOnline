@@ -4,10 +4,8 @@ post_title: 'The Shepherd Journal &#8211; March 22, 2017'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/the-shepherd-journal-march-22-2017/
-published: true
-post_date: 2017-03-25 15:23:58
+permalink: 'http://www.shepherdhistory.org?p=603&preview=true&preview_id=603'
+published: false
 ---
 <h2>Schools</h2>
 <h3>Rick Cahoon awarded SHS High-Flier Award for March</h3>
