@@ -4,7 +4,6 @@ post_title: >
   Operation SYRUP winners announced for
   June
 author: Jon Morgan
-post_date: 2017-06-09 23:52:45
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1776&preview=true&preview_id=1776'
