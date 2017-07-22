@@ -4,10 +4,8 @@ post_title: 'Shepherd Digest &#8211; March 15, 2017'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-digest-march-15-2017/
-published: true
-post_date: 2017-03-16 03:23:52
+permalink: 'http://www.shepherdhistory.org?p=463&preview=true&preview_id=463'
+published: false
 ---
 <h2>Mid Michigan News Review</h2>
 <h3>March 15, 2017</h3>
