@@ -4,22 +4,10 @@ post_title: >
   Reflecting on experiences during the
   MACUL Conference 2017
 author: Jon Morgan
-post_date: 2017-03-20 00:54:57
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/reflecting-on-experiences-during-the-macul-conference-2017/
-published: true
-wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-ase_map_component_start_point:
-  - 'a:1:{i:0;s:130:"a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}";}'
-custom_sidebar:
-  - 'a:1:{i:0;s:4:"none";}'
-top_term:
-  - 'a:1:{i:0;s:3:"108";}'
-medium_post:
-  - 'a:1:{i:0;s:309:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}";}'
+permalink: 'http://www.shepherdhistory.org?p=583&preview=true&preview_id=583'
+published: false
 ---
 <h1></h1>
 <img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/17265076_10154741214213445_242724858734986170_n.jpg" alt="images/17265076_10154741214213445_242724858734986170_n.jpg" width="160" height="160" />
