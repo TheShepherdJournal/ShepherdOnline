@@ -2,7 +2,6 @@
 ID: 1750
 post_title: SHS 6/8/2017 Announcements
 author: Jon Morgan
-post_date: 2017-06-09 03:52:41
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1750&preview=true&preview_id=1750'
