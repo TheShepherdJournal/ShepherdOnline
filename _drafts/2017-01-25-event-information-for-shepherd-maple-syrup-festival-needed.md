@@ -4,20 +4,10 @@ post_title: >
   Event information for Shepherd Maple
   Syrup Festival needed
 author: Jon Morgan
-post_date: 2017-01-25 04:54:20
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/event-information-for-shepherd-maple-syrup-festival-needed/
-published: true
-wide_assets:
-  - ""
-largo_byline_text:
-  - Jon Morgan
-custom_sidebar:
-  - none
-top_term:
-  - "106"
+permalink: 'http://www.shepherdhistory.org?p=198&preview=true&preview_id=198'
+published: false
 ---
 This year's Shepherd Maple Syrup Festival is a little more than three months away. The committee has been busy planning the events and getting everything ready. One addition to the festival this year that I'd like to talk to everyone about is a brand-new <a href="http://www.shepherdmaplesyrupfest.org">website </a>where we will be sharing information about the festival.
 
