@@ -15,10 +15,8 @@ post_excerpt: >
   Bushes located around the State of
   Michigan in March and April.
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-sugar-bush-maple-weekend-open-house-to-be-held-march-18-19/
-published: true
-post_date: 2017-02-18 20:12:56
+permalink: 'http://www.shepherdhistory.org?p=248&preview=true&preview_id=248'
+published: false
 ---
 &nbsp;
 
