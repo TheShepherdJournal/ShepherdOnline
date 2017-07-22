@@ -4,16 +4,10 @@ post_title: >
   Local travel baseball team Oil City
   Stags to compete in 13U/14U World Series
 author: Jon Morgan
-post_date: 2017-06-22 01:15:31
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/local-travel-baseball-team-oil-city-stags-to-complete-in-13u14u-world-series/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}'
+permalink: 'http://www.shepherdhistory.org?p=1968&preview=true&preview_id=1968'
+published: false
 ---
 [caption id="" align="alignnone" width="624"]<img src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-46.jpeg" alt="" width="624" height="468" /> <em>Front Row L to R: Coach Scott Miller, Colten Horn, Drew Funnell, Cole McMullin, Colten Miller, Kevin Tanner, Al Warner. Back Row L to R: Coach Mitch McMullin, Coach Josh Russell, Jacob Recker, Christian Wang, Carson VanBuskirk, Gage Beckner, Logan Wundirluck, Konnor Moore, Coach Brian Warner and Coach Jim Wundirluck.</em>[/caption]
 
