@@ -2,14 +2,10 @@
 ID: 1953
 post_title: 'Community Snapshot: Little Salt River Park'
 author: Jon Morgan
-post_date: 2017-06-21 03:22:02
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/community-snapshot-salt-river-park/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=1953&preview=true&preview_id=1953'
+published: false
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-37.jpeg" alt="" width="624" height="468" />
 
