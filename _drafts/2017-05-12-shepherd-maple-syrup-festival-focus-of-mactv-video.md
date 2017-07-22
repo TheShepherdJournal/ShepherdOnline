@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-maple-syrup-festival-focus-of-mactv-video/
-published: true
-post_date: 2017-05-12 02:32:04
+permalink: 'http://www.shepherdhistory.org?p=1175&preview=true&preview_id=1175'
+published: false
 ---
 Check out this video produced and hosted by Katelyn and Kylie Hutchinson for MACTV. It features scenes and highlights from this year’s Shepherd Maple Syrup Festival.
 
