@@ -4,9 +4,13 @@ post_title: 'Thought for the Day &#8211; It isn&#8217;t against the law to be a 
 author: Luke Sawyer
 post_excerpt: ""
 layout: post
-permalink: http://www.shepherdhistory.org/?p=2502
-published: false
+permalink: >
+  http://www.shepherdhistory.org/thought-for-the-day-it-isnt-against-the-law-to-be-a-jerk/
+published: true
+post_date: 2017-07-21 22:06:35
 ---
+<em><a href="https://www.facebook.com/205632619455314/photos/a.211341935551049.58856.205632619455314/1614896538528908/?type=3">Originally Published 7/20/2017</a></em>
+
 THOUGHT FOR THE DAY -- It isn't against the law to be a jerk. All across the country, police officers have to tell people this when the they want someone thrown under a jail for saying something mean to them, posting a lie on FB about them or just overall being a jerk.
 
 In a perfect world everyone would follow the mantra from Disney's classic movie Bambi -- if you can't saying something nice, don't say anything at all. But...unfortunately this is not reality.
