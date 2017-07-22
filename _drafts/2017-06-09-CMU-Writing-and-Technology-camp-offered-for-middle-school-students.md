@@ -4,7 +4,6 @@ post_title: >
   CMU Writing and Technology camp offered
   for middle school students
 author: Jon Morgan
-post_date: 2017-06-09 23:52:46
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1778&preview=true&preview_id=1778'
