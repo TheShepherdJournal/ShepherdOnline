@@ -4,10 +4,8 @@ post_title: 'Join the Shepherd History project and help preserve the Village of 
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/join-the-shepherd-history-project-and-help-preserve-the-village-of-shepherds-stories-for-tomorrows-historians/
-published: true
-post_date: 2017-03-13 04:49:15
+permalink: 'http://www.shepherdhistory.org?p=450&preview=true&preview_id=450'
+published: false
 ---
 A few weeks ago, actress Viola Davis gave an <a href="http://oscar.go.com/video/oscar-winners-2017/viola-davis-oscars-2017-speech-for-supporting-role">acceptance speech during the Oscars</a> which I feel best characterizes what it is that I hope to accomplish via the Shepherd Online site and <i>The Shepherd Journal</i>:
 <blockquote>People ask me all the time, what kind of stories do you want to tell, Viola? And I say, exhume those bodies. Exhume those stories. The stories of the people who dreamed big and never saw those dreams to fruition. People who fell in love and lost. I became an artist—and thank God I did—because we are the only profession that celebrates what it means to live a life.</blockquote>
