@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shs-technical-team-to-compete-at-swan-valley-hs/
-published: true
-post_date: 2017-02-11 02:38:15
+permalink: 'http://www.shepherdhistory.org?p=236&preview=true&preview_id=236'
+published: false
 ---
 The SHS Technical Team will be competing at Swan Valley High School on February 16.
 
