@@ -2,18 +2,10 @@
 ID: 276
 post_title: The Shepherd Journal Weekend Review
 author: Jon Morgan
-post_date: 2017-02-20 00:54:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/the-shepherd-journal-weekend-review/
-published: true
-top_term:
-  - "33"
-custom_sidebar:
-  - none
-wide_assets:
-  - ""
+permalink: 'http://www.shepherdhistory.org?p=276&preview=true&preview_id=276'
+published: false
 ---
 <span style="font-weight: 400;">Here is a </span><a href="http://flip.it/xpMmA9"><span style="font-weight: 400;">highlight of stories and information shared via Facebook over the last few days</span></a><span style="font-weight: 400;">. The links are presented inside a platform I’ve used in the past called Flipboard. It is accessible on the web, but the mobile app version works even better. The Flipboard app is free, and you will get updates on your phone when new links are added. And, I am planning on adding additional links.</span>
 
