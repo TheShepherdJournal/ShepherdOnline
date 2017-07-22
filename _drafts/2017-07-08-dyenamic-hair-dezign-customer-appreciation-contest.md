@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/dyenamic-hair-dezign-customer-appreciation-contest/
-published: true
-post_date: 2017-07-08 21:54:14
+permalink: 'http://www.shepherdhistory.org?p=2282&preview=true&preview_id=2282'
+published: false
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null-1.png" alt="" width="240" height="240" />
 
