@@ -4,10 +4,8 @@ post_title: 'Shepherd United Methodist Church to host Community Vacation Bible S
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-united-methodist-church-to-host-community-vacation-bible-school-july-17-20/
-published: true
-post_date: 2017-07-16 23:18:40
+permalink: 'http://www.shepherdhistory.org?p=2446&preview=true&preview_id=2446'
+published: false
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null-2.png" alt="" width="540" height="413" />
 
