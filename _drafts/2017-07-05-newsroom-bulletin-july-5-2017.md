@@ -2,18 +2,10 @@
 ID: 2222
 post_title: Newsroom Bulletin July 5, 2017
 author: Jon Morgan
-post_date: 2017-07-05 22:49:45
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/newsroom-bulletin-july-5-2017/
-published: true
-approver_user_id:
-  - "1"
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:68:"https://cdn-images-1.medium.com/fit/c/200/200/0*36cZNLLtNDeGxuaa.jpg";s:10:"author_url";s:30:"https://medium.com/@shepherdmi";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"df071233ad2b";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:5:"draft";s:3:"url";s:43:"https://medium.com/@shepherdmi/df071233ad2b";}'
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=2222&preview=true&preview_id=2222'
+published: false
 ---
 <h2></h2>
 <h2>Contributing to Shepherd Online</h2>
