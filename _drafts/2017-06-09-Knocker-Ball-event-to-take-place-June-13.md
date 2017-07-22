@@ -2,7 +2,6 @@
 ID: 1746
 post_title: Knocker Ball event to take place June 13
 author: Jon Morgan
-post_date: 2017-06-09 03:52:32
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1746&preview=true&preview_id=1746'
