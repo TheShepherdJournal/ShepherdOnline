@@ -2,7 +2,6 @@
 ID: 1754
 post_title: SHS Students of the Month for June
 author: Jon Morgan
-post_date: 2017-06-09 03:52:48
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1754&preview=true&preview_id=1754'
