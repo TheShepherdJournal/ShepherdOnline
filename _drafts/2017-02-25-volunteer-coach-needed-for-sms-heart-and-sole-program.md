@@ -4,18 +4,10 @@ post_title: >
   Volunteer Coach Needed for SMS Heart and
   Sole Program
 author: Jon Morgan
-post_date: 2017-02-25 22:14:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/volunteer-coach-needed-for-sms-heart-and-sole-program/
-published: true
-top_term:
-  - "101"
-custom_sidebar:
-  - none
-wide_assets:
-  - ""
+permalink: 'http://www.shepherdhistory.org?p=307&preview=true&preview_id=307'
+published: false
 ---
 <em>Via Shepherd Middle School</em>
 
