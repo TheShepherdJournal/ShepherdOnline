@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-middle-school-spring-band-concert/
-published: true
-post_date: 2017-05-12 22:58:48
+permalink: 'http://www.shepherdhistory.org?p=1187&preview=true&preview_id=1187'
+published: false
 ---
 Jay Gross live streamed the performances of each band during Friday night's Shepherd Middle School Spring Concert. Here are the links to the videos. I'll update this post with new videos as they become available.
 <ul>
