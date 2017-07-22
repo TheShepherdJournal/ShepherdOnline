@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/community-reacts-to-closing-of-hanson-hardware/
-published: true
-post_date: 2017-03-13 03:10:26
+permalink: 'http://www.shepherdhistory.org?p=444&preview=true&preview_id=444'
+published: false
 ---
 &nbsp;
 
