@@ -4,10 +4,8 @@ post_title: Skilled Trades Night to be held March 15
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/skilled-trades-night-to-be-held-march-15/
-published: true
-post_date: 2017-03-08 02:50:31
+permalink: 'http://www.shepherdhistory.org?p=383&preview=true&preview_id=383'
+published: false
 ---
 <img title="null" src="http://www.shepherdhistory.org/wp-content/uploads/2017/03/skilledtradesnight.png" alt="images/skilledtradesnight.png" width="654" height="1000" />
 
