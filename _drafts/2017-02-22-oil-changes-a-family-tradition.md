@@ -4,10 +4,8 @@ post_title: 'Oil Changes: A Family Tradition'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/oil-changes-a-family-tradition/
-published: true
-post_date: 2017-02-22 02:56:07
+permalink: 'http://www.shepherdhistory.org?p=286&preview=true&preview_id=286'
+published: false
 ---
 <img class="alignnone size-medium wp-image-288" src="http://www.shepherdhistory.org/wp-content/uploads/2017/02/oil-1-336x187.jpg" alt="" width="336" height="187" />
 
