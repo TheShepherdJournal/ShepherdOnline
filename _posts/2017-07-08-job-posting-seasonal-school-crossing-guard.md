@@ -4,8 +4,10 @@ post_title: 'JOB POSTING: Seasonal School Crossing Guard'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2275&preview=true&preview_id=2275'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/job-posting-seasonal-school-crossing-guard/
+published: true
+post_date: 2017-07-08 20:35:49
 ---
 OPEN: Accepting applications until August 21, 2017 at 5:00PM
 
