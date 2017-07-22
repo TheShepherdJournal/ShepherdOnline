@@ -7,10 +7,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/to-be-a-lincoln-to-be-performed-inside-the-shepherd-high-school-auditorium-march-4-5/
-published: true
-post_date: 2017-02-22 03:29:27
+permalink: 'http://www.shepherdhistory.org?p=297&preview=true&preview_id=297'
+published: false
 ---
 <em>Submitted by Jim Luehm</em>
 
