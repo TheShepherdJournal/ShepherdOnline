@@ -2,14 +2,10 @@
 ID: 1908
 post_title: Stone Lodge News
 author: Jon Morgan
-post_date: 2017-06-19 00:22:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/stone-lodge-news/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=1908&preview=true&preview_id=1908'
+published: false
 ---
 <i><b>By Mary Jo Gibbons</b></i>
 
