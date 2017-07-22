@@ -2,18 +2,10 @@
 ID: 148
 post_title: Shepherd Middle School Lock-In
 author: Jon Morgan
-post_date: 2017-01-22 16:49:26
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-middle-school-lock-in/
-published: true
-wide_assets:
-  - ""
-custom_sidebar:
-  - none
-top_term:
-  - "96"
+permalink: 'http://www.shepherdhistory.org?p=148&preview=true&preview_id=148'
+published: false
 ---
 I am looking for more information about the lockin at the Shepherd Middle School that's coming up on February 3. Also, I am looking for "correspondants," most likely middle schoolers, who are planning on attending the event and could write about their thoughts or experiences prior or following the event.
 
