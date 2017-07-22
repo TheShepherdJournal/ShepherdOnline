@@ -5,26 +5,10 @@ post_title: >
   Library to host Annual one-day
   motorcoach tour August 5
 author: Jon Morgan
-post_date: 2017-03-11 04:59:59
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-community-friends-of-the-library-to-host-annual-one-day-motorcoach-tour-august-5/
-published: true
-is_submission:
-  - 'a:1:{i:0;s:1:"1";}'
-user_submit_name:
-  - 'a:1:{i:0;s:14:"christine Kutz";}'
-user_submit_ip:
-  - 'a:1:{i:0;s:12:"207.75.101.3";}'
-wide_assets:
-  - 'a:1:{i:0;s:0:"";}'
-custom_sidebar:
-  - 'a:1:{i:0;s:4:"none";}'
-top_term:
-  - 'a:1:{i:0;s:2:"37";}'
-medium_post:
-  - 'a:1:{i:0;s:309:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:4:"none";s:3:"url";N;}";}'
+permalink: 'http://www.shepherdhistory.org?p=390&preview=true&preview_id=390'
+published: false
 ---
 The Shepherd Community Friends of the Library are hosting their annual one-day motorcoach tour on Saturday, August 5, and all community members are invited to go along for the ride.
 
