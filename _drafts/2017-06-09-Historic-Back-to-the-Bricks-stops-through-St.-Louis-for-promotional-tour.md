@@ -4,7 +4,6 @@ post_title: >
   Historic Back to the Bricks stops
   through St. Louis for promotional tour
 author: Jon Morgan
-post_date: 2017-06-09 23:52:30
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1764&preview=true&preview_id=1764'
