@@ -2,7 +2,6 @@
 ID: 1770
 post_title: 'Shepherd Middle School:  Shout out to Odyssey staff and students for facilitating our SMS Student&#8230;'
 author: Jon Morgan
-post_date: 2017-06-09 23:52:38
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1770&preview=true&preview_id=1770'
