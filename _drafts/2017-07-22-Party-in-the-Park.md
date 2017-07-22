@@ -7,7 +7,7 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2526&preview=true&preview_id=2526'
 published: false
 ---
-<h3>What is the Party in the Park?</h3>
+<h5>What is the Party in the Park?</h5>
 The Party in the Park is a little like the Shepherd Maple Syrup Festival, only with a much smaller scale. Instead of taking place all around the village, it is happening inside the Shepherd Community Memorial Park, and it will take place for two days: August 12 and 13.
-
-What kind of events will ther
+<h5>What kind of events will there be?</h5>
+A number of events are planned for the Party in the Park: Beer tent, Cornhole, a community picnic, demolition derby, and perfomances by sev
