@@ -2,7 +2,6 @@
 ID: 1768
 post_title: How to Avoid the “Summer Slide”
 author: Jon Morgan
-post_date: 2017-06-09 23:52:36
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1768&preview=true&preview_id=1768'
