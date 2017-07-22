@@ -4,14 +4,10 @@ post_title: >
   Shepherd Area Historical Society Ice
   Cream Social to take place on July 10
 author: Jon Morgan
-post_date: 2017-06-18 23:55:52
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-area-historical-society-ice-cream-social-to-take-place-on-july-10/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=1834&preview=true&preview_id=1834'
+published: false
 ---
 <img class="alignnone size-medium wp-image-1835" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/null-336x448.jpeg" alt="" width="225" height="300" />
 
