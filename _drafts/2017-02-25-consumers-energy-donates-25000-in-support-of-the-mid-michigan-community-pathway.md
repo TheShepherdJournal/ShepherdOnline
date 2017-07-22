@@ -5,20 +5,10 @@ post_title: >
   support of the Mid-Michigan Community
   Pathway
 author: Jon Morgan
-post_date: 2017-02-25 23:45:48
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/consumers-energy-donates-25000-in-support-of-the-mid-michigan-community-pathway/
-published: true
-wide_assets:
-  - ""
-custom_sidebar:
-  - none
-top_term:
-  - "40"
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";s:68:"https://cdn-images-1.medium.com/fit/c/200/200/0*36cZNLLtNDeGxuaa.jpg";s:10:"author_url";s:30:"https://medium.com/@shepherdmi";s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:2:"no";s:2:"id";s:12:"d1dad44f8d9c";s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:12:"881fb60cdbf3";s:6:"status";s:5:"draft";s:3:"url";s:43:"https://medium.com/@shepherdmi/d1dad44f8d9c";}'
+permalink: 'http://www.shepherdhistory.org?p=325&preview=true&preview_id=325'
+published: false
 ---
 &nbsp;
 
