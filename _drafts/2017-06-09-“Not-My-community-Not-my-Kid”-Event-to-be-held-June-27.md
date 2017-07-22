@@ -4,7 +4,6 @@ post_title: >
   “Not My community, Not my Kid” Event
   to be held June 27
 author: Jon Morgan
-post_date: 2017-06-09 03:52:30
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1744&preview=true&preview_id=1744'
