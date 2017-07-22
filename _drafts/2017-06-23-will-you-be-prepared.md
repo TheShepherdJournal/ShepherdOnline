@@ -2,14 +2,10 @@
 ID: 1984
 post_title: Will you be prepared?
 author: Jon Morgan
-post_date: 2017-06-23 00:42:47
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/will-you-be-prepared/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=1984&preview=true&preview_id=1984'
+published: false
 ---
 <strong>By Chief Luke Sawyer</strong>
 
