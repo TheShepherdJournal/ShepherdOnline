@@ -6,10 +6,8 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/concert-in-the-park-to-be-held-august-17-at-7-p-m/
-published: true
-post_date: 2017-07-22 12:09:17
+permalink: 'http://www.shepherdhistory.org?p=2471&preview=true&preview_id=2471'
+published: false
 ---
 The Westlawn Church of Christ will be hosting a “Concert in the Park” inside the Shepherd Park starting at 7 p.m. on Thursday, August 17.
 
