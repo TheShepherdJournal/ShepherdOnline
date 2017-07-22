@@ -2,14 +2,10 @@
 ID: 2027
 post_title: Ask Anything Monday 6/19/2017
 author: Luke Sawyer
-post_date: 2017-06-26 17:58:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/ask-anything-monday-6192017/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=2027&preview=true&preview_id=2027'
+published: false
 ---
 <strong>Q: Does the requirement for motorcycle Temporary Instruction Permits (TIP) which says “you must be under the constant visual supervision of a licensed motorcycle operator who is at least 18 years old at all times” mean that the supervisor must be on a motorcycle or is it acceptable for him/her to be in a car?</strong>
 
