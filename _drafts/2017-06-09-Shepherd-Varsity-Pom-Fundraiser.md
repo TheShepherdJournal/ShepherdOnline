@@ -2,7 +2,6 @@
 ID: 1748
 post_title: Shepherd Varsity Pom Fundraiser
 author: Jon Morgan
-post_date: 2017-06-09 03:52:35
 post_excerpt: ""
 layout: post
 permalink: 'http://www.shepherdhistory.org?p=1748&preview=true&preview_id=1748'
