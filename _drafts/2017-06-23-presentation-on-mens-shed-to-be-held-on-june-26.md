@@ -4,14 +4,10 @@ post_title: >
   Presentation on Men’s Shed to be held
   on June 26
 author: Jon Morgan
-post_date: 2017-06-23 00:44:27
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/presentation-on-mens-shed-to-be-held-on-june-26/
-published: true
-ase_map_component_start_point:
-  - 'a:2:{s:3:"lat";d:29.760000000000001563194018672220408916473388671875;s:3:"lng";d:-95.3799999999999954525264911353588104248046875;}'
+permalink: 'http://www.shepherdhistory.org?p=1988&preview=true&preview_id=1988'
+published: false
 ---
 The public is invited to attend a presentation being hosted by the Stone Lodge Memory Care inside the Shepherd Community Library on Monday, June 26 at 6 p.m. regarding plans to build a Men’s Shed on its property.
 
