@@ -4,14 +4,10 @@ post_title: >
   Shepherd High School Announcements
   03/03/2017
 author: Jon Morgan
-post_date: 2017-03-04 04:42:07
 post_excerpt: ""
 layout: post
-permalink: >
-  http://www.shepherdhistory.org/shepherd-high-school-announcements-03032017/
-published: true
-wide_assets:
-  - ""
+permalink: 'http://www.shepherdhistory.org?p=340&preview=true&preview_id=340'
+published: false
 ---
 _Announcements for Friday, March 3rd, 2017:_
 
