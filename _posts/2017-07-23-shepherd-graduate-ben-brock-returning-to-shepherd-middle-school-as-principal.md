@@ -6,8 +6,10 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2563&preview=true&preview_id=2563'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/shepherd-graduate-ben-brock-returning-to-shepherd-middle-school-as-principal/
+published: true
+post_date: 2017-07-23 11:22:26
 ---
 <img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null-3.png" alt="" width="624" height="416" />
 
