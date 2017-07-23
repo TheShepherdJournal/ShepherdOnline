@@ -7,4 +7,4 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2562&preview=true&preview_id=2562'
 published: false
 ---
-Former student Ben Brock will be starting this fall as Shepherd Middle School
+I am looking for someone who would like to write a profile on
