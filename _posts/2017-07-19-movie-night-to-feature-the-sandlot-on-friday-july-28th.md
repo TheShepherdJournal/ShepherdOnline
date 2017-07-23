@@ -6,8 +6,10 @@ post_title: >
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2464&preview=true&preview_id=2464'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/movie-night-to-feature-the-sandlot-on-friday-july-28th/
+published: true
+post_date: 2017-07-19 22:20:04
 ---
 The Shepherd Chamber of Commerce will be hosting a free night at the movies featuring “The Sandlot” on Friday, July 28th evening inside the Shepherd Village Park. Admissions to the movie is free. Attendees are encouraged to bring their own chair. Concessions will be available.
 
