@@ -1,6 +1,6 @@
 ---
 ID: 2588
-post_title: The
+post_title: The Shepherd Journal, July 23, 2017
 author: Jon Morgan
 post_excerpt: ""
 layout: post
