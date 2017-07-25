@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2017-07-23 11:22:26
 ---
-<img title="" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/null-3.png" alt="" width="624" height="416" />
+&nbsp;
 
 Shepherd Middle School’s new principal, Ben Brock, will be a familiar face to the community. <a href="https://www.facebook.com/jgross811">Jay Gross </a>wrote about Brock’s appointment as SMS principal on his facebook page:
 <blockquote>Hey There Shepherd...
