@@ -1,6 +1,6 @@
 ---
 ID: 2598
-post_title: 'The Shepherd Digest &#8211; July 24, 2017'
+post_title: 'The Shepherd Bulletin &#8211; July 24, 2017'
 author: Jon Morgan
 post_excerpt: ""
 layout: post
