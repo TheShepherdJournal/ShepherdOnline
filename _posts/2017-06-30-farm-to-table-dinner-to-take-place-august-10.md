@@ -11,7 +11,6 @@ permalink: >
 published: true
 post_date: 2017-06-30 23:47:57
 ---
-<h2><img class="alignnone size-medium wp-image-2102" src="http://www.shepherdhistory.org/wp-content/uploads/2017/06/fork-knife-and-plate-300px-300x234.png" alt="" width="300" height="234" /></h2>
 <h2>The Story</h2>
 On August 10 at 6:00 p.m., members of the community will get together in the Village of Shepherd to enjoy a dinner cooked by local chefs using food that was grown locally. The event is a fundraiser for the St. Vincent De Paul Food Pantry in Shepherd.
 <h2>How to Attend</h2>
