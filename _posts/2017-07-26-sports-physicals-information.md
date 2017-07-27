@@ -4,8 +4,10 @@ post_title: Sports Physicals Information
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2657&preview=true&preview_id=2657'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/sports-physicals-information/
+published: true
+post_date: 2017-07-26 21:39:52
 ---
 A note from McClaren Central Michigan (hospital) located in Mt. Pleasant. If you haven't had your sports physical yet, please take advantage of this opportunity.
 
