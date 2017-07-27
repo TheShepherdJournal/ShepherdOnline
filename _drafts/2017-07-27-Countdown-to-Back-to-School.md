@@ -20,11 +20,9 @@ Shepherd High School’s “<a href="https://www.facebook.com/shepherdmihs/photo
 As a special bonus, each student and parent who attends will receive one free hot dog and one free water after the event. Students will also receive tickets to the Junior Varsity Football game beginning at 6:30 p.m. vs Gladwin.
 <h3>Physicals Information</h3>
 If you need to get a physical before school starts, here is some information from McLaren Central Michigan:
+<blockquote>McLaren Central Michigan, we understand that your health is your main priority. That’s why we offer classes and events that make keeping your health in check simple. We back you up in your life journey to keep your mind and body the healthiest it can be. Our classes, screenings, and educational seminars are all designed with you, the patient, in mind. Please feel free to share this information.
 
-<i>McLaren Central Michigan, we understand that your health is your main priority. That’s why we offer classes and events that make keeping your health in check simple. We back you up in your life journey to keep your mind and body the healthiest it can be. Our classes, screenings, and educational seminars are all designed with you, the patient, in mind. Please feel free to share this information.</i>
+Preschool &amp; Sports Physicals
 
-<i>Preschool &amp; Sports Physicals</i>
-
-<i>Pediatricians Karen Rathmann, MD and Onyekachi Chika Hammack, MD will be performing preschool and sports physicals in their office, 2935 Health Parkway, Mt. Pleasant. Wed., Aug. 2 from 9 am – 12 pm and Thurs., Aug. 10 from 1 – 4 pm. Cost $15.00. Call (989) 779-5606 to schedule an appointment.</i>
-
+Pediatricians Karen Rathmann, MD and Onyekachi Chika Hammack, MD will be performing preschool and sports physicals in their office, 2935 Health Parkway, Mt. Pleasant. Wed., Aug. 2 from 9 am – 12 pm and Thurs., Aug. 10 from 1 – 4 pm. Cost $15.00. Call (989) 779-5606 to schedule an appointment.</blockquote>
 <i>Do you have an upcoming event or announcement you would like to share? Send news tips via email to <a href="mailto:editor@shepherdhistory.org">editor@shepherdhistory.org</a> or post via the web at http://www.shepherdhistory.org. </i>
