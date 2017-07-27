@@ -4,8 +4,10 @@ post_title: Countdown to Back to School
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2678&preview=true&preview_id=2678'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/countdown-to-back-to-school/
+published: true
+post_date: 2017-07-27 18:52:04
 ---
 As we get closer to the start of August, the odor of textbooks, crayons, and freshly waxed floors has already began to permeate the air: Back to School time is right around the corner.
 <h3>Save the Date</h3>
