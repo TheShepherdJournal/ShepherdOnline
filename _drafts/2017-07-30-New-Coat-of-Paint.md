@@ -7,4 +7,4 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2702&preview=true&preview_id=2702'
 published: false
 ---
-The cabo
+The caboose which sits next to the Train Depot recently received a
