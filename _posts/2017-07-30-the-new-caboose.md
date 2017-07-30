@@ -11,7 +11,7 @@ post_date: 2017-07-30 13:13:33
 ---
 The caboose which sits next to the Train Depot recently received a new coat of red paint, and I have to say that it is looking really good. In fact, it looks brand new.
 
-Here are some recent photos:
+Here are some photos taken while it was being painted:
 
 <img class="alignnone wp-image-2705 size-medium" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/IMG_2674-e1501434209538-336x448.jpg" alt="" width="336" height="448" /> <img class="alignnone wp-image-2706 size-medium" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/IMG_2675-e1501434262669-336x448.jpg" alt="" width="336" height="448" /> <img class="alignnone wp-image-2709 size-medium" src="http://www.shepherdhistory.org/wp-content/uploads/2017/07/IMG_2600-e1501434328184-336x448.jpg" alt="" width="336" height="448" />
 
