@@ -1,6 +1,6 @@
 ---
 ID: 2702
-post_title: New Coat of Paint
+post_title: Shiny like a Penny
 author: Jon Morgan
 post_excerpt: ""
 layout: post
