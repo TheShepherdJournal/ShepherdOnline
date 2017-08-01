@@ -1,7 +1,7 @@
 ---
 ID: 2755
 post_title: SPD Ask Anything 7/31
-author: Jon Morgan
+author: Luke Sawyer
 post_excerpt: ""
 layout: post
 permalink: >
