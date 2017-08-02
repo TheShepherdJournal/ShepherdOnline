@@ -7,3 +7,4 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2768&preview=true&preview_id=2768'
 published: false
 ---
+[post_list name="TSD-08012017"]
