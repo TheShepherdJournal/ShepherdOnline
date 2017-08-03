@@ -12,7 +12,9 @@ permalink: >
 published: true
 post_date: 2017-07-22 14:13:33
 ---
-A beer tent, demolition derby, and numerous bands will headline the Annual Party in the Park taking place inside Shepherd’s Community Memorial Park August 12-13. Admission to the events is $5. Children twelve and under are free. Admission to the demolition derby will be $5 per person.
+A beer tent, demolition derby, and numerous bands will headline the Annual Party in the Park taking place inside Shepherd’s Community Memorial Park August 12-13.
+
+&nbsp;
 <h4>Saturday, August 12</h4>
 <ul>
  	<li>Beer tent: 12pm-12am</li>
@@ -31,5 +33,15 @@ A beer tent, demolition derby, and numerous bands will headline the Annual Party
 </ul>
 <div></div>
 In addition to the above events, a silent auction will be held on Saturday and Sunday.
+<h5>Prices</h5>
+Demolition Derby - $5 per person, 2 and under for free
+
+Beer Tent - $5 per person, must be 21 or older to purchase a ticket
+
+Tractor Pull - $5 to enter
+
+Cornhole Tournament - $5 entry fee
+
+&nbsp;
 
 For more information, contact Pete Alexander, Shepherd Maple Syrup Festival chair, at (989) 828-5422; Vicki Travis, Party in the Park Chair, at 1-989-400-3000; or Jon Morgan, publicity coordinator, at (989) 488-8207.
