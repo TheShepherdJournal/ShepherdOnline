@@ -12,9 +12,9 @@ permalink: >
 published: true
 post_date: 2017-07-22 14:13:33
 ---
-A beer tent, demolition derby, and numerous bands will headline the Annual Party in the Park taking place inside Shepherd’s Community Memorial Park August 12-13.
+<img class="spotlight" src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/20293021_868618659959387_3082022911966150240_n.jpg?oh=07ae9d5238708b5b4757d6cf2b73996a&amp;oe=59ED0348" alt="No automatic alt text available." aria-busy="false" />
 
-&nbsp;
+A beer tent, demolition derby, and live bands will headline the Annual Party in the Park taking place inside Shepherd’s Community Memorial Park August 12-13.
 <h4>Saturday, August 12</h4>
 <ul>
  	<li>Beer tent: 12pm-12am</li>
