@@ -34,14 +34,10 @@ A beer tent, demolition derby, and numerous bands will headline the Annual Party
 <div></div>
 In addition to the above events, a silent auction will be held on Saturday and Sunday.
 <h5>Prices</h5>
-Demolition Derby - $5 per person, 2 and under for free
-
-Beer Tent - $5 per person, must be 21 or older to purchase a ticket
-
-Tractor Pull - $5 to enter
-
-Cornhole Tournament - $5 entry fee
-
-&nbsp;
-
+<ul>
+ 	<li>Demolition Derby - $5 per person, 2 and under for free</li>
+ 	<li>Beer Tent - $5 per person, must be 21 or older to purchase a ticket</li>
+ 	<li>Tractor Pull - $5 to enter</li>
+ 	<li>Cornhole Tournament - $5 entry fee</li>
+</ul>
 For more information, contact Pete Alexander, Shepherd Maple Syrup Festival chair, at (989) 828-5422; Vicki Travis, Party in the Park Chair, at 1-989-400-3000; or Jon Morgan, publicity coordinator, at (989) 488-8207.
