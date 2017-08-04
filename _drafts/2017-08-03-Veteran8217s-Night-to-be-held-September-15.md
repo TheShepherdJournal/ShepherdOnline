@@ -8,10 +8,9 @@ permalink: 'http://www.shepherdhistory.org?p=2810&preview=true&preview_id=2810'
 published: false
 ---
 Please join us as we celebrate our community Veterans in association with our home varsity football game!
-
-Pregame Tailgate-- beginning at 5:30pm
+<h3>Pregame Tailgate-- beginning at 5:30pm</h3>
 <ul>
- 	<li>COMMUNITY welcome!</li>
+ 	<li><span style="font-size: 16px;">COMMUNITY welcome!</span></li>
  	<li>West side of the concession stand, in the parking lot/grassy area--- look for the big tent!</li>
  	<li>Limited number of reserved parking spaces for Veterans</li>
  	<li>Food provided by Mitchell's Deli</li>
@@ -19,9 +18,11 @@ Pregame Tailgate-- beginning at 5:30pm
  	<li>Special entrance to the game just for Veterans</li>
  	<li>FREE admission to Veterans who show their active or retired military ID or DD214. Must show at the gate.</li>
  	<li>Limited number of Veteran t-shirts given at the gate</li>
- 	<li>Raffle tickets given at the gate for special items to be called at halftime/3rd quarter. Must be present to win. Items donated by local businesses.
-
-Pregame Ceremonies-- beginning at 6:30-6:40pm
+ 	<li>Raffle tickets given at the gate for special items to be called at halftime/3rd quarter. Must be present to win. Items donated by local businesses.</li>
+</ul>
+<h3>Pregame Ceremonies-- beginning at 6:30-6:40pm</h3>
+<ul>
+ 	<li>
 ---&gt; Recognition of Veterans by walking from the flag pole to the 50yd line
 ---&gt; Music provided by the Shepherd HS Band and Shepherd HS Choir
 ---&gt;Special artwork provided by the Shepherd HS Art Department
