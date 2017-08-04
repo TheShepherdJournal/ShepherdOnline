@@ -22,17 +22,16 @@ Please join us as we celebrate our community Veterans in association with our ho
 </ul>
 <h3>Pregame Ceremonies-- beginning at 6:30-6:40pm</h3>
 <ul>
- 	<li>
----&gt; Recognition of Veterans by walking from the flag pole to the 50yd line
----&gt; Music provided by the Shepherd HS Band and Shepherd HS Choir
----&gt;Special artwork provided by the Shepherd HS Art Department
----&gt; Veteran involvement in raising the flag, coin toss and other pregame activities
----&gt; Other special activites to take place as well.
-
-Kickoff 7pm
----&gt; Against Carrollton HS
----&gt; Reserved seating the bleachers for Veterans
-
+ 	<li>Recognition of Veterans by walking from the flag pole to the 50yd line</li>
+ 	<li>Music provided by the Shepherd HS Band and Shepherd HS Choir</li>
+ 	<li>Special artwork provided by the Shepherd HS Art Department</li>
+ 	<li> Veteran involvement in raising the flag, coin toss and other pregame activities</li>
+ 	<li>Other special activites to take place as well.</li>
+</ul>
+<h3>Kickoff 7pm</h3>
+<ul>
+ 	<li>Against Carrollton HS</li>
+ 	<li>Reserved seating the bleachers for Veterans
 Other important information to note:
 ---&gt; This is the first year for this event, word of mouth is greatly appreciated!
 ---&gt; We will have transportation available for those who need assistance walking from the flag pole to the 50yd line
