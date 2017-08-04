@@ -1,5 +1,4 @@
-# Shepherd Weekly News
-
+# The Shepherd Journal
 ___
 
 ![](/assets/Fireworks-Remix-2015052712-800px.png)
