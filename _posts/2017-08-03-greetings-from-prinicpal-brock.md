@@ -4,8 +4,10 @@ post_title: Greetings from Prinicpal Brock
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2807&preview=true&preview_id=2807'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/greetings-from-prinicpal-brock/
+published: true
+post_date: 2017-08-03 21:19:30
 ---
 <img src="https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/20604707_1316390125137165_2497140320029489812_n.jpg?oh=6c9ba5e028aefcf935aec0e3092587ee&amp;oe=5A38B88A" alt="Image may contain: text" />
 
