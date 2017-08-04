@@ -10,15 +10,16 @@ published: false
 Please join us as we celebrate our community Veterans in association with our home varsity football game!
 
 Pregame Tailgate-- beginning at 5:30pm
----&gt; COMMUNITY welcome!
----&gt; West side of the concession stand, in the parking lot/grassy area--- look for the big tent!
----&gt; Limited number of reserved parking spaces for Veterans
----&gt; Food provided by Mitchell's Deli
----&gt; Games
----&gt; Special entrance to the game just for Veterans
----&gt; FREE admission to Veterans who show their active or retired military ID or DD214. Must show at the gate.
----&gt; Limited number of Veteran t-shirts given at the gate
----&gt; Raffle tickets given at the gate for special items to be called at halftime/3rd quarter. Must be present to win. I<span class="text_exposed_show">tems donated by local businesses.
+<ul>
+ 	<li>COMMUNITY welcome!</li>
+ 	<li>West side of the concession stand, in the parking lot/grassy area--- look for the big tent!</li>
+ 	<li>Limited number of reserved parking spaces for Veterans</li>
+ 	<li>Food provided by Mitchell's Deli</li>
+ 	<li>Games</li>
+ 	<li>Special entrance to the game just for Veterans</li>
+ 	<li>FREE admission to Veterans who show their active or retired military ID or DD214. Must show at the gate.</li>
+ 	<li>Limited number of Veteran t-shirts given at the gate</li>
+ 	<li>Raffle tickets given at the gate for special items to be called at halftime/3rd quarter. Must be present to win. Items donated by local businesses.
 
 Pregame Ceremonies-- beginning at 6:30-6:40pm
 ---&gt; Recognition of Veterans by walking from the flag pole to the 50yd line
@@ -68,4 +69,5 @@ Four Seasons Floral
 Timber Creek Rustic Furniture
 Moeggenborg Sugarbush
 Shepherd Elementary PTO
-***with more adding!</span>
+***with more adding!</li>
+</ul>
