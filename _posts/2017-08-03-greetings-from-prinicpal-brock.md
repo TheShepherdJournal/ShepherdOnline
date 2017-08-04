@@ -1,6 +1,6 @@
 ---
 ID: 2807
-post_title: Greetings from Prinicpal Brock
+post_title: Greetings from Prinicipal Brock
 author: Jon Morgan
 post_excerpt: ""
 layout: post
