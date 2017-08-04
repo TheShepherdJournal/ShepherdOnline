@@ -7,3 +7,65 @@ layout: post
 permalink: 'http://www.shepherdhistory.org?p=2810&preview=true&preview_id=2810'
 published: false
 ---
+Please join us as we celebrate our community Veterans in association with our home varsity football game!
+
+Pregame Tailgate-- beginning at 5:30pm
+---&gt; COMMUNITY welcome!
+---&gt; West side of the concession stand, in the parking lot/grassy area--- look for the big tent!
+---&gt; Limited number of reserved parking spaces for Veterans
+---&gt; Food provided by Mitchell's Deli
+---&gt; Games
+---&gt; Special entrance to the game just for Veterans
+---&gt; FREE admission to Veterans who show their active or retired military ID or DD214. Must show at the gate.
+---&gt; Limited number of Veteran t-shirts given at the gate
+---&gt; Raffle tickets given at the gate for special items to be called at halftime/3rd quarter. Must be present to win. I<span class="text_exposed_show">tems donated by local businesses.
+
+Pregame Ceremonies-- beginning at 6:30-6:40pm
+---&gt; Recognition of Veterans by walking from the flag pole to the 50yd line
+---&gt; Music provided by the Shepherd HS Band and Shepherd HS Choir
+---&gt;Special artwork provided by the Shepherd HS Art Department
+---&gt; Veteran involvement in raising the flag, coin toss and other pregame activities
+---&gt; Other special activites to take place as well.
+
+Kickoff 7pm
+---&gt; Against Carrollton HS
+---&gt; Reserved seating the bleachers for Veterans
+
+Other important information to note:
+---&gt; This is the first year for this event, word of mouth is greatly appreciated!
+---&gt; We will have transportation available for those who need assistance walking from the flag pole to the 50yd line
+
+We hope to see a packed stadium to honor our Veterans and cheer our team to a victory!
+
+Special thanks to:
+JayTravis, Athletic Director
+Nathan Ferency, Varsity Football Head Coach
+Andrea Hall, Varsity Cheer
+JoAnn Gross, SHS Band Director
+Jeremy Myers, SHS Choir Director
+Amber Yeagley, SHS Art Department
+
+Special thanks to our Veterans t-shirt sponsors:
+Mitchell's Deli
+Shepherd Youth Football Program
+C &amp; O Sportswear
+Central Eavestroughing, LLC
+Mid-Michigan Appliance
+The Showalter Group
+Level 7 Hair Studio
+Central Michigan Pro Clean Powerwashing
+JS Premier Designs
+Isabella Bank
+Fan-C Rental Company
+Moeggenborg Sugarbush
+Shepherd Elementray PTO
+Melody at Level 7 Hair Studio
+
+Special thanks to additional sponsors:
+In Memory of Neil &amp; Joe Nelson
+Mitchell's Deli
+Four Seasons Floral
+Timber Creek Rustic Furniture
+Moeggenborg Sugarbush
+Shepherd Elementary PTO
+***with more adding!</span>
