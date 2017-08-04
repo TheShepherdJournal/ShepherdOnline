@@ -14,7 +14,6 @@
 * [Party in the Park to take place August 12 - 13](_posts/2017-07-22-party-in-the-park-2.md)
 
 ## Departments
-* [Story Ideas](http://www.shepherdhistory.org/sample-feature-request/)
 * [Submit a News Tip](http://www.shepherdhistory.org/share-a-story/)
 
 
