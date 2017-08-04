@@ -4,8 +4,10 @@ post_title: Odyssey MS/HS
 author: Jon Morgan
 post_excerpt: ""
 layout: post
-permalink: 'http://www.shepherdhistory.org?p=2820&preview=true&preview_id=2820'
-published: false
+permalink: >
+  http://www.shepherdhistory.org/odyssey-mshs/
+published: true
+post_date: 2017-08-03 23:08:25
 ---
 &nbsp;
 
