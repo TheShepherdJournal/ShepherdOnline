@@ -1,6 +1,8 @@
 ---
 ID: 2833
-post_title: Shepherd
+post_title: >
+  Shepherd Train Depot Open House to take
+  place August 10 at 6 p.m.
 author: Jon Morgan
 post_excerpt: ""
 layout: post
