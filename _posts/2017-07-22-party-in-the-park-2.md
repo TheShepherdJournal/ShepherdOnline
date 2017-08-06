@@ -23,7 +23,7 @@ A beer tent, demolition derby, and live bands will headline the Annual Party in 
  	<li>Dunk tank &amp; Buck a Ball: 1pm -5pm (Coordinator: Dean Mitchell)</li>
  	<li>Kite building: 1pm-5pm (Coordinator: Pete Alexander)</li>
  	<li>Demolition Derby: 6pm</li>
- 	<li>Live Band: Triple Shot: 8pm -Midnight</li>
+ 	<li>Live Band: Triple Shot: 7pm -Midnight</li>
 </ul>
 <h4>Sunday, August 13</h4>
 <ul>
